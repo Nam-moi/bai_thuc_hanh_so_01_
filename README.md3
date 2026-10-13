@@ -1,1 +1,12 @@
-
+Bài 3
+Input{
+  Số nguyên dương n
+  Dãy n số nguyên
+}
+Output{
+  Số lớn nhất trong mảng
+}
+Example{
+  Ta có n = 4
+  Dãy số: 1 3 6 8
+  Tìm đc số lớn nhất là: 8
