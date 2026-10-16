@@ -1,1 +1,10 @@
-
+Bài 4
+Input{
+  Hai số nguyên dương a, b
+}
+Output{
+  BCNN của a và b
+}
+Example{
+  Ta có: a = 4, b = 6
+  Kết quả: BCNN = 12
